@@ -1,5 +1,5 @@
 //! SQEP Lite – Public Quantum Encryption Library
-//! Author: Kaizen Raijin
+//! Author: Herbert Manfred Fulgence Vaty
 //! License: MIT
 
 #![allow(dead_code)] // suppresses "unused" warnings across the whole file
