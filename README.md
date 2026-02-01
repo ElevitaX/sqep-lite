@@ -14,6 +14,12 @@
 
 ---
 
+> **Part of the SQEP Ecosystem**
+> This library is a low-level cryptographic component used by the [SQEP-Zero](https://github.com/ElevitaX/sqep-zero) standard.
+> If you're looking for the full verifiable receipt protocol, see **[sqep-zero](https://github.com/ElevitaX/sqep-zero)**.
+
+---
+
 ## Overview
 
 **SQEP-Lite** is a focused, batteries-included encryption crate built on top of
